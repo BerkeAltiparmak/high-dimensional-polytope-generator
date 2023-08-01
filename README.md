@@ -7,4 +7,18 @@ My research paper, which can be accessed on https://www.researchgate.net/publica
 This project takes n, the dimension of the simplex, and l, the level of the simplex, as inputs to generate the coordinates of the vertices that can be used to construct an n-simplex at the l level. It also specifies the type of each vertex (Vertex, Edge, Face, etc.).
 
 <img width="489" alt="Screen Shot 2022-10-02 at 23 29 23" src="https://user-images.githubusercontent.com/96665962/193496598-5326242b-94d0-49d1-86fa-74127c2fec74.png">
+
+<br />
+<br />
+<br />
+
+Here are the first four simplexes:
+
+<img width="1321" alt="Screen Shot 2023-08-01 at 16 42 24" src="https://github.com/BerkeAltiparmak/high-dimensional-polytope-generator/assets/96665962/4efc5abe-9aae-4e21-a3d2-3e10c2d36f99">
+
+<br />
+<br />
+
+This is a cut from 4-Simplex, generated through the proposed algorithm:
+
 <img width="403" alt="Screen Shot 2022-10-02 at 23 27 35" src="https://user-images.githubusercontent.com/96665962/193496608-b16c7bbb-16c2-45d6-b244-6ee7f708ec03.png">
